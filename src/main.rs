@@ -1,9 +1,7 @@
-fn main() { 
-    let x = 5;
+mod variables;
+mod data_types;
 
-    let y = {
-        let x = 3;
-        x + 1
-    };
-    println!("The value of y is: {}", y);
+fn main() {
+    variables::variable_practice2();
+    data_types::data_type_practice1();
 }

@@ -76,7 +76,7 @@ let third_num = my_num + my_other_num; // error
  println!("{}", number + other_number as f64); // 18.6
 ```
 
-# 5. println!
+# 5. println! (1)
 
 - 뒤에 !가 붙으면 macro이다.
 - 뒤에 !가 붙지 않으면 function이다.
@@ -97,4 +97,7 @@ fn main() {
   println!("age is {}", give_age());
 }
 ```
+
+
+# 6. println! (2)
 
