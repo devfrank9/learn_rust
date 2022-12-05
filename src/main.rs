@@ -1,5 +1,6 @@
 mod variables;
 mod data_types;
+mod function_operating;
 
 fn main() {
     variables::variable_practice2();
