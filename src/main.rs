@@ -3,6 +3,7 @@ mod function_operating;
 mod loop_practice;
 mod owner_practice;
 mod references_practice;
+mod slice_practice;
 mod variables;
 
 fn main() {
