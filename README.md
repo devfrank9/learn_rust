@@ -1,3 +1,6 @@
+# 소스코드연습: https://rinthel.github.io/rust-lang-book-ko
+# 영상시청후 리드미 기록: https://www.youtube.com/watch?v=W9DO6m8JSSs
+
 ## 그냥 간단하게 아는것
 
 책으로 쓰는 타입 - documentation
