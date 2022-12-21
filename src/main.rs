@@ -4,6 +4,7 @@ mod loop_practice;
 mod owner_practice;
 mod references_practice;
 mod slice_practice;
+mod structure_example;
 mod structure_practice;
 mod variables;
 
